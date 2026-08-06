@@ -1,1 +1,1 @@
-This is my Distance Cal
+This is my Distance Calculation program.
