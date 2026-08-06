@@ -1,1 +1,1 @@
-# CS2-DistanceCalculation
+This is my Distance Calculator program.
